@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: http://pravyla.s3-website.eu-central-1.amazonaws.com/sitemap.xml
